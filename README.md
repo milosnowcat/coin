@@ -1,0 +1,2 @@
+# coin
+ Solana Token
